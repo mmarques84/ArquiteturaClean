@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb11baf5-4977-4b21-a61d-4e21b268d419": {
+      "ProjectGuid": "cb11baf5-4977-4b21-a61d-4e21b268d419",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "0076372f-d2ef-4d68-8c57-b5acc9579df8": {
+      "ProjectGuid": "0076372f-d2ef-4d68-8c57-b5acc9579df8",
+      "DisplayName": "Repositorio",
+      "ColorIndex": 1
+    },
+    "4106c90a-7444-4253-b71a-f21b9e2ad544": {
+      "ProjectGuid": "4106c90a-7444-4253-b71a-f21b9e2ad544",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "154dad1c-3eb8-403d-b421-6f5a8e32c781": {
+      "ProjectGuid": "154dad1c-3eb8-403d-b421-6f5a8e32c781",
+      "DisplayName": "DDD.Application",
+      "ColorIndex": 3
+    },
+    "065abd61-1a44-4303-9a77-19c1d51c2b75": {
+      "ProjectGuid": "065abd61-1a44-4303-9a77-19c1d51c2b75",
+      "DisplayName": "DDD.Web",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "8ab46790-0598-4fd1-a670-8b06ab9a23fe": {
+      "ProjectGuid": "8ab46790-0598-4fd1-a670-8b06ab9a23fe",
+      "DisplayName": "TestClient",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
