@@ -9557,11 +9557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\MarcusMarques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9581,8 +9581,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Dominio\\Domain.csproj": {
-              "projectPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Dominio\\Domain.csproj"
+            "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Dominio\\Domain.csproj": {
+              "projectPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Dominio\\Domain.csproj"
             }
           }
         }

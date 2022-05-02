@@ -9579,11 +9579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\DDD.Application\\DDD.Application.csproj",
+      "projectUniqueName": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\DDD.Application\\DDD.Application.csproj",
       "projectName": "DDD.Application",
-      "projectPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\DDD.Application\\DDD.Application.csproj",
+      "projectPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\DDD.Application\\DDD.Application.csproj",
       "packagesPath": "C:\\Users\\MarcusMarques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\DDD.Application\\obj\\",
+      "outputPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\DDD.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9603,8 +9603,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

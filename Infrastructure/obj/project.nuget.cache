@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d1/DLu7a72OsvncId+s+V4VEZncrEphYQlZCSMrdTJU1OU67waNw4eQbsChYFqsniKFb2hw3YKdo5G/nDmfVZQ==",
+  "dgSpecHash": "uX4moFt+TeeWdm/T9g2hJJ5zOF1OiMWMQaOkyWmBw+0JrsJ+toI9Ns1UHoS6bIc4TsRl4wI5BCRsveSc911yTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentassertions\\6.6.0\\fluentassertions.6.6.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",

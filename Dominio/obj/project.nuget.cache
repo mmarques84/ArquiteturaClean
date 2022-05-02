@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHEeCVykUMfc4+4EhqryEV67BTw8brEGtatBUXglALpLIovdBK8SgmIWSKPx3X7LVENKohGX+a5eyBD6PiAlJg==",
+  "dgSpecHash": "hgfNR7VFD+zr1zuZeZ5+khb7WufyveJTpBiIsTSHuEtU2o12TnzhsoJBf/e830/jW5Ra3ESrnXV+d3K3Xq6RWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\Dominio\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\Dominio\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentassertions\\6.6.0\\fluentassertions.6.6.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",

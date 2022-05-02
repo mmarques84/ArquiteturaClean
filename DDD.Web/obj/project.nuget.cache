@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgCQX6X/2EJ0QjDh44e1buOxXozahY6sQHfvxxTpXCmX/WIOqP77uqcmP2m0a702ERBMeFI39nCGTstmSgj/5Q==",
+  "dgSpecHash": "0O8HDs5tC/VJKDAlBm0ovz/Ln/NROvZ/J5o884AMd7vAxEu0feqPsL3vNbDO3DXlsvYflbDhL8EJHw+oG4Bd5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\DDD.Web\\DDD.Web.csproj",
+  "projectFilePath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\DDD.Web\\DDD.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
@@ -64,6 +64,7 @@
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.3\\microsoft.visualstudio.web.codegeneration.6.0.3.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.3\\microsoft.visualstudio.web.codegeneration.core.6.0.3.nupkg.sha512",

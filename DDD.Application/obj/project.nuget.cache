@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qL3q+GT+DeoPSLxqUjlzkL2LHI8QJYMwFDwRr+Rtd9yDZojCdrgoAWn1q5r3vRa+Oo0JuT0Az3VnkWxgJZfj6Q==",
+  "dgSpecHash": "QgGJ90CB3xxK7mEL3OIFuoHj/CRAl/5YnjZwTk02sLisKW4l6ABtDkWpF6sa9WhoZQNons4XdLsfYSmCjYAhlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcusMarques\\source\\repos\\DesafioTecnico\\DDD.Application\\DDD.Application.csproj",
+  "projectFilePath": "C:\\Users\\MarcusMarques\\Documents\\GitHub\\ArquiteturaClean\\DDD.Application\\DDD.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentassertions\\6.6.0\\fluentassertions.6.6.0.nupkg.sha512",
     "C:\\Users\\MarcusMarques\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
